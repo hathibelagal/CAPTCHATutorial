@@ -1,0 +1,15 @@
+{
+  "name": "captcha_validator",
+  "version": "1.0.0",
+  "description": "Verifies reCAPTCHA user tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hathibelagal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CaptchaTutorial</string>
+    <string name="my_site_key">your site key</string>
+</resources>
